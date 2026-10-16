@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://megavegas.github.io/mymood-site/sitemap.xml
