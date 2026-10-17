@@ -1,5 +1,7 @@
 {
-  "versionName": "0.1.23",
-  "versionCode": 24,
-  "apk": "downloads/mymood.apk"
+  "versionName": "0.1.24",
+  "versionCode": 25,
+  "apk": "downloads/mymood.apk",
+  "windowsVersion": "0.1.24",
+  "windows": "downloads/mymood-windows.zip"
 }
